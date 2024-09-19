@@ -1,1 +1,2 @@
 # Calculator-Project
+Final project of TOP foundations. Finished this a long time ago. Should have uploaded to github way back when. At some point I will come back to clean this up and implement newfound knowledge. 

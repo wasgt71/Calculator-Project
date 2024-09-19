@@ -1,0 +1,66 @@
+#showinput{
+    background-color: aqua;
+    border-width: 100px;
+    border-color: black;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 41%;
+    width: 15%;
+    font-size: 40px;
+    border-radius: 10px;
+    z-index: 0;
+    margin-top: 100px;
+    }
+    
+    
+    #inputNum{
+    border-width: 100px;
+    border-color: black;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 41%;
+    }
+    
+    .section{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 41%;
+        margin-top: 5px;
+    }
+    
+    .table{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 41%;  
+    }
+    
+    .row{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 41%;
+    }
+    
+    .operators{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 41%;
+    }
+    
+    #button2, #button3, #button4, #button5, #button6, #button7, #button8, #button9, #button9, #button10, #multiply, #subtraction, #addition, #division, #equal{
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+        margin-top: 2px;
+    }
+    
+    #button1, #clear{
+        width: 158px;
+        height: 50px;
+        border-radius: 10px;
+    }
